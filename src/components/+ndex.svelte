@@ -1,7 +1,7 @@
 
 
  <script>
-    import Step from "./prev.svelte";
+    import Step from "./+prev.svelte";
 
     // Array of project
     let projects = [

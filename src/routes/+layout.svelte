@@ -1,5 +1,5 @@
 <script>
-    import Header from "../components/nav.svelte";
+    import Header from "../components/+nav.svelte";
     import "../app.css";
   
     // Scroll position and window dimensions

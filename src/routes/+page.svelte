@@ -1,5 +1,5 @@
 <script>
-    import Main from "../components/ndex.svelte";
+    import Main from "../components/+ndex.svelte";
   </script>
   
   <Main />
