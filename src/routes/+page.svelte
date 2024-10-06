@@ -1,1 +1,5 @@
-<h1>BADING</h1>
+<script>
+    import Main from "../components/ndex.svelte";
+  </script>
+  
+  <Main />
